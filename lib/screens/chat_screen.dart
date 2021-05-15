@@ -2,7 +2,11 @@ import 'package:flutter/material.dart';
 import 'package:simple_chat_application/constants.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
-
+/*
+CREATED BY BISWARUP BHATTACHARJEE
+EMAIL    : bbiswa471@gmail.com
+PHONE NO : 6290272740
+*/
 final _firestore = Firestore.instance;
 FirebaseUser loggedInUser;
 
