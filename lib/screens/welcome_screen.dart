@@ -4,6 +4,11 @@ import 'package:simple_chat_application/screens/login_screen.dart';
 import 'package:animated_text_kit/animated_text_kit.dart';
 import 'package:hexcolor/hexcolor.dart';
 import 'package:simple_chat_application/screens/registration_screen.dart';
+/*
+CREATED BY BISWARUP BHATTACHARJEE
+EMAIL    : bbiswa471@gmail.com
+PHONE NO : 6290272740
+*/
 class WelcomeScreen extends StatefulWidget {
   static String id='welcome_screen';
   @override
