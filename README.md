@@ -70,8 +70,13 @@ The web application I have made, is totally safe there is no chance to breach an
 
 <div align="center">
 <a href="pics/gc1.jpeg"><img src="pics/gc1.jpeg" width="250" height= "450"></a> <a href="pics/gc2.jpeg"><img src="pics/gc2.jpeg" width="250" height= "450"></a> <a href="pics/gc3.jpeg"><img src="pics/gc3.jpeg" width="250" height= "450"></a>
-            
-<a href="pics/m16.jpeg"><img src="pics/m16.jpeg" width="400" height= "250"></a> <a href="pics/m20.jpeg"><img src="pics/m20.jpeg" width="400" height= "250"></a>
+ 
+<a href="pics/gc4.jpeg"><img src="pics/gc4.jpeg" width="250" height= "450"></a> <a href="pics/gc5.jpeg"><img src="pics/gc5.jpeg" width="250" height= "450"></a> <a href="pics/gc6.jpeg"><img src="pics/gc6.jpeg" width="250" height= "450"></a>
+
+<a href="pics/gc7.jpeg"><img src="pics/m7.jpeg" width="400" height= "250"></a> <a href="pics/m8.jpeg"><img src="pics/m8.jpeg" width="400" height= "250"></a>
+
+<a href="pics/m9.jpeg"><img src="pics/m9.jpeg" width="400" height= "250"></a> <a href="pics/m10.jpeg"><img src="pics/m10.jpeg" width="400" height= "250"></a>
+
 </div>
 
 ## Getting Started :point_down: 
