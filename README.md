@@ -55,7 +55,17 @@ The web application I have made, is totally safe there is no chance to breach an
 
 ## Folder Structure :point_down:
 ```bash
-
+GroupChat-Flutter
+       ├── assets/images
+       |           └── logo.png
+       └── lib
+             ├── screens
+             |     ├── chat_screen.dart
+             |     ├── login_screen.dart
+             |     ├── registration_screen.dart
+             |     └── welcome_screen.dart
+             ├── constans.dart
+             └── main.dart
  ```                      
 
 ## Making :point_down:
