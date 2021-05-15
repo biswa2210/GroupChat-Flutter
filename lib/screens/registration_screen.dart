@@ -3,7 +3,11 @@ import 'package:firebase_auth/firebase_auth.dart';
 import 'package:modal_progress_hud/modal_progress_hud.dart';
 import 'package:simple_chat_application/screens/chat_screen.dart';
 import 'package:simple_chat_application/screens/welcome_screen.dart';
-
+/*
+CREATED BY BISWARUP BHATTACHARJEE
+EMAIL    : bbiswa471@gmail.com
+PHONE NO : 6290272740
+*/
 class RegistrationScreen extends StatefulWidget {
   static String id='registration_screen';
   @override
