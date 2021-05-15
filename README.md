@@ -15,7 +15,6 @@
 
 <div align="justified">
 It is a new ,simple real time chatting application. I have made this with Flutter. By installing an application in our android or iphone we can use this app. Here user first has to register with email id and password. After that user has to login with that email id and password to get started with chatting. Whoever has the app can start chatting. The chats are safe and no one accept users can acces the chats. While chatting whoever is chatting his or her email id will be shown there. It is a very useful and easy to use app for chatting safely with our family, friends or whoever we want. Everyone knows the importance of chatting app. These helps us to communicate with everyone without meeting them. Even if when anyone is busy that is he or she can't call that time then he or she can chat with anyone. This app will save our time to contact with someone and anyone can use it.        
-
 </div>
 
 ## About Security :point_down:
@@ -73,9 +72,9 @@ The web application I have made, is totally safe there is no chance to breach an
  
 <a href="pics/gc4.jpeg"><img src="pics/gc4.jpeg" width="250" height= "450"></a> <a href="pics/gc5.jpeg"><img src="pics/gc5.jpeg" width="250" height= "450"></a> <a href="pics/gc6.jpeg"><img src="pics/gc6.jpeg" width="250" height= "450"></a>
 
-<a href="pics/gc7.jpeg"><img src="pics/m7.jpeg" width="400" height= "250"></a> <a href="pics/m8.jpeg"><img src="pics/m8.jpeg" width="400" height= "250"></a>
+<a href="pics/gc7.jpeg"><img src="pics/gc7.jpeg" width="400" height= "250"></a> <a href="pics/gc8.jpeg"><img src="pics/gc8.jpeg" width="400" height= "250"></a>
 
-<a href="pics/m9.jpeg"><img src="pics/m9.jpeg" width="400" height= "250"></a> <a href="pics/m10.jpeg"><img src="pics/m10.jpeg" width="400" height= "250"></a>
+<a href="pics/gc9.jpeg"><img src="pics/gc9.jpeg" width="400" height= "250"></a> <a href="pics/gc10.jpeg"><img src="pics/gc10.jpeg" width="400" height= "250"></a>
 
 </div>
 
