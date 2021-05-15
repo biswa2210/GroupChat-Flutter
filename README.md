@@ -21,11 +21,12 @@ It is a new ,simple real time chatting application. I have made this with Flutte
 ## About Security :point_down:
  - [x] 'The chats are safe and protected'
  - [x] 'No-one accept that user can access anyone's personal chats'
+ 
 ## Things needed for Getting started with this app :speech_balloon:
  - [x] 'A valid and proper email Id'
  - [x] 'Password for safety'
        
-## APP DOWNLOAD LINK : :point_right: <a href="" download>Click here to download</a>
+## APP DOWNLOAD LINK : :point_right: <a href="https://github.com/biswa2210/GroupChat-Flutter/raw/master/Group_Chat_base.apk" download>Click here to download</a>
 
 ## Purpose :point_down:
 
