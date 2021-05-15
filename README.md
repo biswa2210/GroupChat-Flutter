@@ -14,28 +14,29 @@
 ## About :point_down: 
 
 <div align="justified">
-       
+It is a new ,simple real time chatting application. I have made this with Flutter. By installing an application in our android or iphone we can use this app. Here user first has to register with email id and password. After that user has to login with that email id and password to get started with chatting. Whoever has the app can start chatting. The chats are safe and no one accept users can acces the chats. While chatting whoever is chatting his or her email id will be shown there. It is a very useful and easy to use app for chatting safely with our family, friends or whoever we want. Everyone knows the importance of chatting app. These helps us to communicate with everyone without meeting them. Even if when anyone is busy that is he or she can't call that time then he or she can chat with anyone. This app will save our time to contact with someone and anyone can use it.        
 
 </div>
 
 ## About Security :point_down:
  - [x] 'The chats are safe and protected'
  - [x] 'No-one accept that user can access anyone's personal chats'
+## Things needed for Getting started with this app :speech_balloon:
+ - [x] 'A valid and proper email Id'
+ - [ ] 'Password for safety'
        
 ## APP DOWNLOAD LINK : :point_right: <a href="" download>Click here to download</a>
 
 ## Purpose :point_down:
 
 <div align="justified">
-       
-
+  
 </div>
 
 ## Use :point_down:
 
 <div align="justified">
-       
-
+By installing an application in our android or iphone we can use this app. Here user first has to register with email id and password. After that user has to login with that email id and password to get started with chatting.          
 </div>      
        
 ## Importance :point_down:
@@ -53,13 +54,13 @@
 
 <div align="justified">
 
-**This flutter application is totally responsive.** When we change the orientation the app fits in that. I have used [FLUTTER](https://flutter.dev/?gclid=Cj0KCQjw38-DBhDpARIsADJ3kjliHdMH2hA97bBGqJtW5ORUUksCxpZ8cnrSWaH__HevGftAmP8AmvIaAhNlEALw_wcB&gclsrc=aw.ds) and [Dart](https://dart.dev/) in front end and backend. 
+**This flutter application is totally responsive.** When we change the orientation the app fits in that. I have used [FLUTTER](https://flutter.dev/?gclid=Cj0KCQjw38-DBhDpARIsADJ3kjliHdMH2hA97bBGqJtW5ORUUksCxpZ8cnrSWaH__HevGftAmP8AmvIaAhNlEALw_wcB&gclsrc=aw.ds) and [Dart](https://dart.dev/). The data is stored in a project created by me named 'Group Chat' in [Firebase](https://firebase.google.com/).
 </div>
 
 ## Screenshots :point_down: 
 
 <div align="center">
-<a href="pics/m17.jpeg"><img src="pics/m17.jpeg" width="250" height= "450"></a> <a href="pics/m1.jpeg"><img src="pics/m1.jpeg" width="250" height= "450"></a> <a href="pics/m2.jpeg"><img src="pics/m2.jpeg" width="250" height= "450"></a>
+<a href="pics/gc1.jpeg"><img src="pics/gc1.jpeg" width="250" height= "450"></a> <a href="pics/gc2.jpeg"><img src="pics/gc2.jpeg" width="250" height= "450"></a> <a href="pics/gc3.jpeg"><img src="pics/gc3.jpeg" width="250" height= "450"></a>
             
 <a href="pics/m16.jpeg"><img src="pics/m16.jpeg" width="400" height= "250"></a> <a href="pics/m20.jpeg"><img src="pics/m20.jpeg" width="400" height= "250"></a>
 </div>
