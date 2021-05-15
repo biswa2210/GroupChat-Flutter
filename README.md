@@ -23,7 +23,7 @@ It is a new ,simple real time chatting application. I have made this with Flutte
  - [x] 'No-one accept that user can access anyone's personal chats'
 ## Things needed for Getting started with this app :speech_balloon:
  - [x] 'A valid and proper email Id'
- - [ ] 'Password for safety'
+ - [x] 'Password for safety'
        
 ## APP DOWNLOAD LINK : :point_right: <a href="" download>Click here to download</a>
 
