@@ -65,18 +65,6 @@ The web application I have made, is totally safe there is no chance to breach an
 **This flutter application is totally responsive.** When we change the orientation the app fits in that. I have used [FLUTTER](https://flutter.dev/?gclid=Cj0KCQjw38-DBhDpARIsADJ3kjliHdMH2hA97bBGqJtW5ORUUksCxpZ8cnrSWaH__HevGftAmP8AmvIaAhNlEALw_wcB&gclsrc=aw.ds) and [Dart](https://dart.dev/). The data is stored in a project created by me named 'Group Chat' in [Firebase](https://firebase.google.com/).
 </div>
 
-## Screenshots :point_down: 
-
-<div align="center">
-<a href="pics/gc1.jpeg"><img src="pics/gc1.jpeg" width="250" height= "450"></a> <a href="pics/gc2.jpeg"><img src="pics/gc2.jpeg" width="250" height= "450"></a> <a href="pics/gc3.jpeg"><img src="pics/gc3.jpeg" width="250" height= "450"></a>
- 
-<a href="pics/gc4.jpeg"><img src="pics/gc4.jpeg" width="250" height= "450"></a> <a href="pics/gc5.jpeg"><img src="pics/gc5.jpeg" width="250" height= "450"></a> <a href="pics/gc6.jpeg"><img src="pics/gc6.jpeg" width="250" height= "450"></a>
-
-<a href="pics/gc7.jpeg"><img src="pics/gc7.jpeg" width="400" height= "250"></a> <a href="pics/gc8.jpeg"><img src="pics/gc8.jpeg" width="400" height= "250"></a>
-
-<a href="pics/gc9.jpeg"><img src="pics/gc9.jpeg" width="400" height= "250"></a> <a href="pics/gc10.jpeg"><img src="pics/gc10.jpeg" width="400" height= "250"></a>
-
-</div>
 
 ## Getting Started :point_down: 
 
@@ -90,4 +78,18 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## Screenshots :point_down: 
+
+<div align="center">
+<a href="pics/gc1.jpeg"><img src="pics/gc1.jpeg" width="250" height= "450"></a> <a href="pics/gc2.jpeg"><img src="pics/gc2.jpeg" width="250" height= "450"></a> <a href="pics/gc3.jpeg"><img src="pics/gc3.jpeg" width="250" height= "450"></a>
+ 
+<a href="pics/gc4.jpeg"><img src="pics/gc4.jpeg" width="250" height= "450"></a> <a href="pics/gc5.jpeg"><img src="pics/gc5.jpeg" width="250" height= "450"></a> <a href="pics/gc6.jpeg"><img src="pics/gc6.jpeg" width="250" height= "450"></a>
+
+<a href="pics/gc7.jpeg"><img src="pics/gc7.jpeg" width="400" height= "250"></a> <a href="pics/gc8.jpeg"><img src="pics/gc8.jpeg" width="400" height= "250"></a>
+
+<a href="pics/gc9.jpeg"><img src="pics/gc9.jpeg" width="400" height= "250"></a> <a href="pics/gc10.jpeg"><img src="pics/gc10.jpeg" width="400" height= "250"></a>
+
+</div>
+
 
