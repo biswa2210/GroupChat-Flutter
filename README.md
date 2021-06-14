@@ -29,7 +29,7 @@ It is a new ,simple real time chatting application. I have made this with Flutte
  - [x] 'A valid and proper email Id'
  - [x] 'Password for safety'
        
-## APP DOWNLOAD LINK : :point_right: <a href="https://github.com/biswa2210/GroupChat-Flutter/raw/master/Group_Chat_base.apk" download>Click here to download</a>
+## APP DOWNLOAD LINK : :point_right: <a href="https://github.com/biswa2210/GroupChat-Flutter/raw/master/base.apk" download>Click here to download</a>
 
 ## Purpose :point_down:
 
