@@ -22,6 +22,10 @@
 It is a new ,simple real time chatting application. I have made this with Flutter. By installing an application in our android or iphone we can use this app. This app can be used by secret security agents or for jobs like that because this app doesn't uses auto login. Here messages cannot be copied. User can enter the app using the email id and password. Here user first has to register with email id and password. After that user has to login with that email id and password to get started with chatting. Whoever has the app can start chatting. The chats are safe and no one accept users can acces the chats. While chatting whoever is chatting his or her email id will be shown there. Here user can see the times for messages. Last message can be sent multiple times by just clicking on send button. It is a very useful and easy to use app for chatting safely with our family, friends or whoever we want. Everyone knows the importance of chatting app. These helps us to communicate with everyone without meeting them. Even if when anyone is busy that is he or she can't call that time then he or she can chat with anyone. This app will save our time to contact with someone and anyone can use it.        
 </div>
 
+## GROUP CHAT DEMO VIDEO: :point_right: <a href="https://www.youtube.com/watch?v=5q-ER3IgvFA&list=PL0lbDlMJ1h4hiexZec5cbgw8a3F8dE1HH&index=9">Click here to watch</a>
+
+## FLUTTER PLAYLIST: :point_right: <a href="https://www.youtube.com/playlist?list=PL0lbDlMJ1h4hiexZec5cbgw8a3F8dE1HH">Click here to watch</a>
+
 ## About Security :point_down:
  - [x] 'The chats are safe and protected'
  - [x] 'No-one accept that user can access anyone's personal chats'
